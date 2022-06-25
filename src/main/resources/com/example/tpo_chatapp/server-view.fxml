@@ -11,7 +11,7 @@
 <?import javafx.scene.control.ScrollPane?>
 <?import javafx.scene.text.Font?>
 <AnchorPane fx:id="ap_main" fx:controller="com.example.tpo_chatapp.ServerController"
-            prefHeight="396" prefWidth="478"
+            prefHeight="400" prefWidth="480"
             xmlns:fx="http://javafx.com/fxml">
     <children>
         <Button fx:id="button_send" layoutX="404" layoutY="338" text="Send"/>
